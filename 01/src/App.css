@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
+    color: white;
 }
 
 body {
@@ -26,7 +27,7 @@ body {
     background: radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 99%);
 }
 
-.gradient_text {
+.gradient__text {
     background: var(--gradient-text);
     background-clip: text;
     -webkit-background-clop: text;
@@ -37,7 +38,7 @@ body {
     padding: 4rem 6rem
 }
 
-.section__margine {
+.section__margin {
     margin: 4rem 6rem;
 }
 
