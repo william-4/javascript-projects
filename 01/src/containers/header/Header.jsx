@@ -9,7 +9,7 @@ const Header = () => {
 	<div className="gpt3__header section__padding" id="home">
 		<div className="gpt3__header-content">
 			<h1 className="gradient__text">
-				Just like a child, every idea brought to life has a life of it's own.
+				Just like a child, every idea that is implemented takes on a life of it's own.
 			</h1>
 			<p>
 				The quick brown fox jumps over the lazy dog.The quick brown fox jumps over the lazy dog. 
